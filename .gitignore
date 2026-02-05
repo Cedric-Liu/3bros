@@ -35,3 +35,7 @@ Thumbs.db
 # Logs
 *.log
 bro_strategy.pdf
+
+# Node
+node_modules/
+frontend/dist/
